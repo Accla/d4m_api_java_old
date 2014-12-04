@@ -41,10 +41,10 @@ public class D4mQueryTest10 {
 	public void setUp() throws Exception {
 
 		System.setProperty(D4mFactory.PROPERTY_D4M_CLOUD_TYPE,"Accumulo");
-		instanceName               ="accumulo";
-		host                       = "bullet.llan.ll.mit.edu:2181";
-		username                   =  "root";
-		password                   = "secret";
+        instanceName               ="classdb01";
+        host                       = "classdb01.cloud.llgrid.txe1.mit.edu:2181";
+        username                   =  "AccumuloUser";
+        password                   = "";
 		table                      = "iTest10";
 		String row = "a,a,a,a,a,a,aa,aa,aaa,aaa,b,b,bb,bb,bbb,bbb,";
 		String col = "a,aa,aaa,b,bb,bbb,a,aa,a,aaa,a,b,a,bb,a,bbb,";
