@@ -3,6 +3,18 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
+  <component name="IdProvider" IDEtalkID="EFE9CE66F4345A13293413C4F7249242" />
+  <component name="IvyIDEA.ProjectSettings">
+    <option name="artifactTypeSettings">
+      <ArtifactTypeSettings />
+    </option>
+    <option name="propertiesSettings">
+      <PropertiesSettings />
+    </option>
+  </component>
+  <component name="IvyProjectSettings">
+    <dependencies />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
