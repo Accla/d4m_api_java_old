@@ -56,12 +56,10 @@ public class D4mDbQueryTest7 {
 	 */
 	@Before
 	public void setUp() throws Exception {
-		instanceName               ="accumulo";
-		host                       = "bullet:2181";
-//		host                       = "f-2-6.llgrid.ll.mit.edu:2181";
-
-		username                   =  "root";
-		password                   = "secret";
+		instanceName               ="classdb01";
+		host                       = "classdb01.cloud.llgrid.txe1.mit.edu:2181";
+		username                   =  "AccumuloUser";
+		password                   = "";
 		table                      = "iTest7";
 		columnFamily        = "";
 
